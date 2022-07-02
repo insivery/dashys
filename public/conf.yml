@@ -44,3 +44,12 @@ sections:
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
     
+- name: Getting Started
+  icon: fas fa-rocket
+  items:
+  - title: Dashy
+  - type: clock
+  options:
+    timeZone: Europe/London
+    format: en-GB
+    hideDate: false
